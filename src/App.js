@@ -20,6 +20,7 @@ function App() {
         </a> */}
       {/* </header> */}
       <Loginpage />
+      <h1>Home page</h1>
     </div>
   );
 }
