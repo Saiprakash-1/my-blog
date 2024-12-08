@@ -3,7 +3,7 @@ function loginpage(){
         <div>
         <button>Login</button>
         <button>Register</button>
-        {/* <h1>Login</h1> */}
+        <button> HI Raja </button>
         </div>
     )
 }
